@@ -60,7 +60,7 @@ Navigate to the folder where you saved the file (e.g., your Downloads folder):
 
 *Run the script using Python:
 
-#### ->python traffic_simulation.py
+#### ->python TrafficSim.py
 
 
 ## 📖 How to Use
