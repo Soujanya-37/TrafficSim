@@ -1,5 +1,7 @@
 # 🚦 TrafficSim: A Command-Line Traffic Simulation
 
+(A second year CGV project by Soujanya Shanbhag)
+
 This is a simple traffic simulation built with Python and the Pygame library. It's a classic Computer Graphics and Visualization (CGV) project that models a single four-way intersection with functional traffic lights and autonomous cars.
 
 ## ✨ Features
@@ -90,7 +92,5 @@ To quit the simulation, simply close the Pygame window (click the "X").
 *2D Animation: Creates the illusion of movement by updating the x and y coordinates of each car's rect every frame and redrawing it.
 
 ## 📄 License
-
-A second year CGV project by Soujanya Shanbhag.
 
 Distributed under the MIT License.
